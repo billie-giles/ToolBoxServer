@@ -1,6 +1,13 @@
 # ToolBoxServer
 Server for the toolbox plug-in
 
+Install
+ pip install -r requirements.txt
+
+or
+
+pip3 install -r requirements.txt
+
 gpt4All Python bindings
 https://github.com/nomic-ai/gpt4all/blob/main/gpt4all-bindings/python/README.md
 
