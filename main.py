@@ -4,6 +4,7 @@ import gpt4all
 
 app = Flask(__name__)
 
+# find better solution
 _gpt4all = gpt4all.GPT4All("/home/user/Documents/dev/OSINT Tool/models/wizardlm-13b-v1.1-superhot-8k.ggmlv3.q4_0.bin")
 session = _gpt4all.chat_session()
 
